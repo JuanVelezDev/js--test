@@ -12,12 +12,11 @@
 ## 📂 Estructura del proyecto
 
 El proyecto está organizado para ser limpio y fácil de navegar:
-Bibliotecary--SPA
-├── .idea/ # Configuración del proyecto (opcional, específico del IDE)
-├── bibliotecary/
+project
+├── 
+├── project-root/
 │ ├── node_modules/ # Dependencias instaladas con npm
-│ ├── public/ # Archivos públicos como imágenes, fuentes, etc.
-│ ├── src/ # Código fuente de la aplicación
+│ ├─
 ├── .gitignore # Archivos/carpetas que Git debe ignorar
 ├── index.html # Archivo HTML principal para la app
 ├── login.html # Página de inicio de sesión
