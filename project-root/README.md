@@ -102,3 +102,11 @@ Estamos encantados de recibir contribuciones. Sigue estos pasos para contribuir 
 5. Abre un **Pull Request** para la revisión de tus cambios.
 
 ---
+
+
+
+
+Juan Esteban Velez Jiemnez
+id= 1034918670
+Clan: Gosling
+Correo: juanes.jevj@gmail.com
